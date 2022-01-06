@@ -1,0 +1,121 @@
+.width{
+    background-image: url(pictures/top-banner.png);
+    background-repeat: no-repeat;
+    display: flex;
+    padding-bottom: 200px;
+}
+.width2{
+    display: flex;
+    background-image: url(shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+    padding-bottom: 150px;
+    
+}
+
+.para{
+    width: 50%;
+  padding-left: 7%;
+
+}
+.para2{
+    width: 100%;
+   padding-left: 8%;
+}
+.para2 img{
+    width: 60%;
+    padding-left: 40px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    
+    }
+p{
+    font-size: 22px;
+
+}
+h2 span{
+    color: rgb(8, 245, 134);
+}
+.para img{
+    width: 100%;
+}
+.linkbutton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.fndbu{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+body{
+    font-family: 'Lobster', cursive;
+}
+.para p{
+    text-align: justify;
+    word-wrap: inherit;
+}
+
+h2{
+    font-size: 30px;
+}
+.last{
+    font-size: 20px;
+}
+.mid{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+.corona{
+    color: orange;
+}
+.para3 img{
+    padding: 100px;
+    padding-left: 350px;
+
+
+}
+.nnn{
+    color: orange;
+}
+h4{
+    font-size: 30px;
+    text-align: center;
+    color: white; 
+
+}
+footer{
+    background-color: rgb(24, 23, 23);
+    background-size: 15px;
+    padding-bottom: 15px;
+   
+    
+}
+.foo{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    padding: auto;
+}
+.bor{
+    border-left: 2px solid  rgb(207, 8, 247);
+    position: relative;
+}
+#jjj{
+    padding-top: 1;
+}
